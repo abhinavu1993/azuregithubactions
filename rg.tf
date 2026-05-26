@@ -15,3 +15,8 @@ name = "rg3"
 location = "japanwest"
 }
 
+resource "azurerm_resource_group" "rg" {
+
+name = "rg4"
+location = "japaneast"
+}
